@@ -1,3 +1,3 @@
 # Industry Research
-Market research of the insuretech Sector of India 
-Mutual Fund Traker 
+1. Market research of the insuretech Sector of India 
+2. Mutual Fund Traker 
